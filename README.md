@@ -1,2 +1,2 @@
 # JavaMysql
-Ini adalah Praltikum Pertemuan Akhir
+Ini adalah Praktikum Pertemuan Akhir
